@@ -15,7 +15,7 @@
         "description": "superscript"
     },
     "etc": {
-        "prefix": "...",
+        "prefix": "\\...",
         "body": "\\dots",
         "description": "\\dots"
     },
@@ -74,7 +74,6 @@
         "body": "\\ddot{${1:${TM_SELECTED_TEXT}}}$0",
         "description": "ddot"
     },
-
     "equiv": {
         "prefix": "@=",
         "body": "\\equiv",
